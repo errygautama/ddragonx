@@ -1,6 +1,6 @@
 {
-  "name": "ddragonx",
-  "version": "1.1.9",
+  "name": "@errygautama/ddragonx",
+  "version": "1.2.3",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,7 +8,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "airdropfind": "^1.1.6",
     "dluffy": "^1.1.4",
+    "findercapital": "^1.1.4",
+    "jquery": "^3.7.1",
     "next": "14.1.3",
     "react": "^18",
     "react-dom": "^18"
